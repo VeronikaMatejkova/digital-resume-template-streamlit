@@ -10,9 +10,9 @@ resume_file = current_dir / "assets" / "CV.pdf"
 profile_pic = current_dir / "assets" / "profile-pic.png"
 
 # --- GENERAL SETTINGS ---
-PAGE_TITLE = "Digital CV | "Veronika Matějková"
+PAGE_TITLE = "Digital CV | "Veronika Matejkova"
 PAGE_ICON = ":wave:"
-NAME = "Jane Doe"
+NAME = "Veronika Matejkova"
 DESCRIPTION = """
 Recent graduate of the Czechitas Digital Academy Data, transitioning from marketing to data analytics, passionate about leveraging data to drive business decisions.
 """
